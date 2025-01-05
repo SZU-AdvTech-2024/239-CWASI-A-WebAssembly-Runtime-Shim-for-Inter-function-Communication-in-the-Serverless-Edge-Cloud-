@@ -1,0 +1,11 @@
+@inproceedings{REPO239,
+    author = "Marcelino, Cynthia and Nastic, Stefan",
+    booktitle = "2023 IEEE/ACM Symposium on Edge Computing (SEC)",
+    doi = "10.1145/3583740.3626611",
+    keywords = "Runtime;Serverless computing;Programming;Throughput;Edge computing;WebAssemly;Inter-function;Edge-Cloud Continuum;Serverless;Shim",
+    number = "",
+    pages = "158-170",
+    title = "{CWASI: A WebAssembly Runtime Shim for Inter-Function Communication in the Serverless Edge-Cloud Continuum}",
+    volume = "",
+    year = "2023"
+}
