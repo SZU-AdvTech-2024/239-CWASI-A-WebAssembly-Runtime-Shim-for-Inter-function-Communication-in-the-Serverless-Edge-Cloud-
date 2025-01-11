@@ -1,0 +1,630 @@
+opening stderr
+opening rootfs
+opening mounts
+mounts: [
+    "/dev",
+    "/dev/shm",
+    "/run",
+    "/etc/hosts",
+    "/etc/resolv.conf",
+]
+args ["/func_b.wasm"]
+envs ["PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "HOSTNAME=kubuntu"]
+register wasm app from file "/run/containerd/io.containerd.runtime.v2.task/mysp/ffffbbbb/rootfs/func_b.wasm"
+setting up wasi
+downloading http://127.0.0.1:9999/files/file_1M.txt
+================================================================================================
+preopens: [
+    "/:/run/containerd/io.containerd.runtime.v2.task/mysp/ffffbbbb/rootfs",
+    "/dev",
+    "/dev/shm",
+    "/run",
+    "/etc/hosts",
+    "/etc/resolv.conf",
+]
+[2024-12-06 18:08:33.949] [error] Bind guest directory failed:54
+[2024-12-06 18:08:33.949] [error] Bind guest directory failed:54
+================================================================================================
+module registered
+Secondary function true
+before init
+Received 10486022 bytes at 2024-12-06 10:08:36.667715310 UTC
+After serialization at 2024-12-06T10:08:36.667832941Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486022 bytes at 2024-12-06 10:08:36.676869775 UTC
+After serialization at 2024-12-06T10:08:36.676962029Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486022 bytes at 2024-12-06 10:08:36.684798596 UTC
+After serialization at 2024-12-06T10:08:36.684907920Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486022 bytes at 2024-12-06 10:08:36.691530868 UTC
+After serialization at 2024-12-06T10:08:36.691624428Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486022 bytes at 2024-12-06 10:08:36.697961439 UTC
+After serialization at 2024-12-06T10:08:36.698052252Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486022 bytes at 2024-12-06 10:08:36.704076075 UTC
+After serialization at 2024-12-06T10:08:36.704235309Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486022 bytes at 2024-12-06 10:08:36.710681855 UTC
+After serialization at 2024-12-06T10:08:36.710769841Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486022 bytes at 2024-12-06 10:08:36.717876903 UTC
+After serialization at 2024-12-06T10:08:36.718056710Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486022 bytes at 2024-12-06 10:08:36.722453335 UTC
+After serialization at 2024-12-06T10:08:36.722535346Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.728984278 UTC
+After serialization at 2024-12-06T10:08:36.729097693Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.734868233 UTC
+After serialization at 2024-12-06T10:08:36.734957667Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.740789202 UTC
+After serialization at 2024-12-06T10:08:36.740878072Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.746473406 UTC
+After serialization at 2024-12-06T10:08:36.746564930Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.752539357 UTC
+After serialization at 2024-12-06T10:08:36.752637796Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.758076737 UTC
+After serialization at 2024-12-06T10:08:36.758170643Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.764356573 UTC
+After serialization at 2024-12-06T10:08:36.764451035Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.769853607 UTC
+After serialization at 2024-12-06T10:08:36.769941862Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.778635016 UTC
+After serialization at 2024-12-06T10:08:36.778740071Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.785382179 UTC
+After serialization at 2024-12-06T10:08:36.785467634Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.790634719 UTC
+After serialization at 2024-12-06T10:08:36.790726589Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.796882312 UTC
+After serialization at 2024-12-06T10:08:36.796983588Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.802556316 UTC
+After serialization at 2024-12-06T10:08:36.802639167Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.810678751 UTC
+After serialization at 2024-12-06T10:08:36.810766139Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.816681113 UTC
+After serialization at 2024-12-06T10:08:36.816769418Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.821834845 UTC
+After serialization at 2024-12-06T10:08:36.821916943Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.827557364 UTC
+After serialization at 2024-12-06T10:08:36.827628201Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.833963921 UTC
+After serialization at 2024-12-06T10:08:36.834066897Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.839816563 UTC
+After serialization at 2024-12-06T10:08:36.839906745Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.845879371 UTC
+After serialization at 2024-12-06T10:08:36.845961983Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.851198038 UTC
+After serialization at 2024-12-06T10:08:36.851294675Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.857881164 UTC
+After serialization at 2024-12-06T10:08:36.858054692Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.862571791 UTC
+After serialization at 2024-12-06T10:08:36.862651771Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.868542289 UTC
+After serialization at 2024-12-06T10:08:36.868623998Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.874164971 UTC
+After serialization at 2024-12-06T10:08:36.874242118Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.880434680 UTC
+After serialization at 2024-12-06T10:08:36.880519296Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.887168054 UTC
+After serialization at 2024-12-06T10:08:36.887248856Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.894354650 UTC
+After serialization at 2024-12-06T10:08:36.894451256Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.900109781 UTC
+After serialization at 2024-12-06T10:08:36.900194144Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.905814133 UTC
+After serialization at 2024-12-06T10:08:36.905903387Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.911530474 UTC
+After serialization at 2024-12-06T10:08:36.911602892Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.918142800 UTC
+After serialization at 2024-12-06T10:08:36.918310979Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.923832362 UTC
+After serialization at 2024-12-06T10:08:36.923919881Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.929811712 UTC
+After serialization at 2024-12-06T10:08:36.929981899Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.938054145 UTC
+After serialization at 2024-12-06T10:08:36.938128887Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.944176162 UTC
+After serialization at 2024-12-06T10:08:36.944259826Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.949957263 UTC
+After serialization at 2024-12-06T10:08:36.950076507Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.956329697 UTC
+After serialization at 2024-12-06T10:08:36.956421268Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.962939372 UTC
+After serialization at 2024-12-06T10:08:36.963027934Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.969809701 UTC
+After serialization at 2024-12-06T10:08:36.969891634Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.975838245 UTC
+After serialization at 2024-12-06T10:08:36.975911157Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.982110493 UTC
+After serialization at 2024-12-06T10:08:36.982211168Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.988097731 UTC
+After serialization at 2024-12-06T10:08:36.988174768Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:36.994086851 UTC
+After serialization at 2024-12-06T10:08:36.994172314Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.001168957 UTC
+After serialization at 2024-12-06T10:08:37.001255563Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.006815785 UTC
+After serialization at 2024-12-06T10:08:37.006913048Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.011986741 UTC
+After serialization at 2024-12-06T10:08:37.012086209Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.021961456 UTC
+After serialization at 2024-12-06T10:08:37.022054382Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.026157580 UTC
+After serialization at 2024-12-06T10:08:37.026254574Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.032505231 UTC
+After serialization at 2024-12-06T10:08:37.032598977Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.038185358 UTC
+After serialization at 2024-12-06T10:08:37.038290804Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.044798369 UTC
+After serialization at 2024-12-06T10:08:37.044885957Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.052194089 UTC
+After serialization at 2024-12-06T10:08:37.052374042Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.057137841 UTC
+After serialization at 2024-12-06T10:08:37.057233761Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.065654387 UTC
+After serialization at 2024-12-06T10:08:37.065825610Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.071118044 UTC
+After serialization at 2024-12-06T10:08:37.071286301Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.078204327 UTC
+After serialization at 2024-12-06T10:08:37.078286118Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.084656137 UTC
+After serialization at 2024-12-06T10:08:37.084746860Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.090506002 UTC
+After serialization at 2024-12-06T10:08:37.090593308Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.096785976 UTC
+After serialization at 2024-12-06T10:08:37.096877323Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.103094559 UTC
+After serialization at 2024-12-06T10:08:37.103251026Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.108414583 UTC
+After serialization at 2024-12-06T10:08:37.108490881Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.115048842 UTC
+After serialization at 2024-12-06T10:08:37.115132137Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.120936748 UTC
+After serialization at 2024-12-06T10:08:37.121024964Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.125978497 UTC
+After serialization at 2024-12-06T10:08:37.126089562Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.133034309 UTC
+After serialization at 2024-12-06T10:08:37.133109405Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.138255797 UTC
+After serialization at 2024-12-06T10:08:37.138342568Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.145123935 UTC
+After serialization at 2024-12-06T10:08:37.145293848Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.150011117 UTC
+After serialization at 2024-12-06T10:08:37.150100467Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.159808538 UTC
+After serialization at 2024-12-06T10:08:37.159976528Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.164578788 UTC
+After serialization at 2024-12-06T10:08:37.164665148Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.169306218 UTC
+After serialization at 2024-12-06T10:08:37.169400839Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.175525411 UTC
+After serialization at 2024-12-06T10:08:37.175691484Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.182999014 UTC
+After serialization at 2024-12-06T10:08:37.183155807Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.189427599 UTC
+After serialization at 2024-12-06T10:08:37.189510542Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.194901228 UTC
+After serialization at 2024-12-06T10:08:37.194990466Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.200733530 UTC
+After serialization at 2024-12-06T10:08:37.200827036Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.207180521 UTC
+After serialization at 2024-12-06T10:08:37.207274058Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.212070284 UTC
+After serialization at 2024-12-06T10:08:37.212157509Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.218097780 UTC
+After serialization at 2024-12-06T10:08:37.218187521Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.223864315 UTC
+After serialization at 2024-12-06T10:08:37.223952713Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.230228844 UTC
+After serialization at 2024-12-06T10:08:37.230322849Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.235745518 UTC
+After serialization at 2024-12-06T10:08:37.235827040Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.243367184 UTC
+After serialization at 2024-12-06T10:08:37.243446890Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.249036264 UTC
+After serialization at 2024-12-06T10:08:37.249116834Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.254801269 UTC
+After serialization at 2024-12-06T10:08:37.254965455Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.260367295 UTC
+After serialization at 2024-12-06T10:08:37.260522192Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.268188907 UTC
+After serialization at 2024-12-06T10:08:37.268271079Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.273170283 UTC
+After serialization at 2024-12-06T10:08:37.273257320Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486023 bytes at 2024-12-06 10:08:37.279353671 UTC
+After serialization at 2024-12-06T10:08:37.279457458Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.285273760 UTC
+After serialization at 2024-12-06T10:08:37.285365073Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.290903491 UTC
+After serialization at 2024-12-06T10:08:37.290991916Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.297310091 UTC
+After serialization at 2024-12-06T10:08:37.297457730Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.304023674 UTC
+After serialization at 2024-12-06T10:08:37.304154970Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.309963581 UTC
+After serialization at 2024-12-06T10:08:37.310128303Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.315730233 UTC
+After serialization at 2024-12-06T10:08:37.315807372Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.321254489 UTC
+After serialization at 2024-12-06T10:08:37.321334549Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.328730747 UTC
+After serialization at 2024-12-06T10:08:37.328817138Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.334262783 UTC
+After serialization at 2024-12-06T10:08:37.334357504Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.340666090 UTC
+After serialization at 2024-12-06T10:08:37.340760433Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.346521554 UTC
+After serialization at 2024-12-06T10:08:37.346618908Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.352459249 UTC
+After serialization at 2024-12-06T10:08:37.352547670Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.358227280 UTC
+After serialization at 2024-12-06T10:08:37.358324262Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.364203270 UTC
+After serialization at 2024-12-06T10:08:37.364279933Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.369982709 UTC
+After serialization at 2024-12-06T10:08:37.370067311Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.378008639 UTC
+After serialization at 2024-12-06T10:08:37.378093460Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.382910545 UTC
+After serialization at 2024-12-06T10:08:37.382997538Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.388711947 UTC
+After serialization at 2024-12-06T10:08:37.388794252Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.394541179 UTC
+After serialization at 2024-12-06T10:08:37.394629901Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.399971824 UTC
+After serialization at 2024-12-06T10:08:37.400042508Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.408632081 UTC
+After serialization at 2024-12-06T10:08:37.408710418Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.413607028 UTC
+After serialization at 2024-12-06T10:08:37.413693865Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.419087675 UTC
+After serialization at 2024-12-06T10:08:37.419180067Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.426204051 UTC
+After serialization at 2024-12-06T10:08:37.426290949Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.431812135 UTC
+After serialization at 2024-12-06T10:08:37.431909523Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.437205102 UTC
+After serialization at 2024-12-06T10:08:37.437286170Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.445378095 UTC
+After serialization at 2024-12-06T10:08:37.445541591Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.450215989 UTC
+After serialization at 2024-12-06T10:08:37.450287285Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.456632943 UTC
+After serialization at 2024-12-06T10:08:37.456794963Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.463282983 UTC
+After serialization at 2024-12-06T10:08:37.463383280Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.467456405 UTC
+After serialization at 2024-12-06T10:08:37.467549700Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.473398800 UTC
+After serialization at 2024-12-06T10:08:37.473488508Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.479260784 UTC
+After serialization at 2024-12-06T10:08:37.479359666Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.487368935 UTC
+After serialization at 2024-12-06T10:08:37.487450646Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.492746988 UTC
+After serialization at 2024-12-06T10:08:37.492827816Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.498414414 UTC
+After serialization at 2024-12-06T10:08:37.498502775Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.504418890 UTC
+After serialization at 2024-12-06T10:08:37.504509187Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.509125735 UTC
+After serialization at 2024-12-06T10:08:37.509227459Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.516291457 UTC
+After serialization at 2024-12-06T10:08:37.516378252Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.521840518 UTC
+After serialization at 2024-12-06T10:08:37.521931703Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.527632446 UTC
+After serialization at 2024-12-06T10:08:37.527709262Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.533385089 UTC
+After serialization at 2024-12-06T10:08:37.533472215Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.539323195 UTC
+After serialization at 2024-12-06T10:08:37.539414361Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.544705374 UTC
+After serialization at 2024-12-06T10:08:37.544784434Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.551016835 UTC
+After serialization at 2024-12-06T10:08:37.551091287Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.556114839 UTC
+After serialization at 2024-12-06T10:08:37.556195739Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.561871620 UTC
+After serialization at 2024-12-06T10:08:37.561958210Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.568098108 UTC
+After serialization at 2024-12-06T10:08:37.568184699Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.573455074 UTC
+After serialization at 2024-12-06T10:08:37.573548270Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.579295938 UTC
+After serialization at 2024-12-06T10:08:37.579389739Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.585113968 UTC
+After serialization at 2024-12-06T10:08:37.585190146Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.590759464 UTC
+After serialization at 2024-12-06T10:08:37.590855166Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.597570273 UTC
+After serialization at 2024-12-06T10:08:37.597665722Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.602944626 UTC
+After serialization at 2024-12-06T10:08:37.603114425Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.607930819 UTC
+After serialization at 2024-12-06T10:08:37.608016012Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.616590940 UTC
+After serialization at 2024-12-06T10:08:37.616677314Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.621758988 UTC
+After serialization at 2024-12-06T10:08:37.621842885Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.628136581 UTC
+After serialization at 2024-12-06T10:08:37.628241045Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.638024865 UTC
+After serialization at 2024-12-06T10:08:37.638127123Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.647659667 UTC
+After serialization at 2024-12-06T10:08:37.647802803Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.654857757 UTC
+After serialization at 2024-12-06T10:08:37.654992585Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.665694586 UTC
+After serialization at 2024-12-06T10:08:37.665812152Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.674710009 UTC
+After serialization at 2024-12-06T10:08:37.674826341Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.681546320 UTC
+After serialization at 2024-12-06T10:08:37.681660993Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.689035155 UTC
+After serialization at 2024-12-06T10:08:37.689129508Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.699552930 UTC
+After serialization at 2024-12-06T10:08:37.699651248Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.706877181 UTC
+After serialization at 2024-12-06T10:08:37.706987482Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.715134527 UTC
+After serialization at 2024-12-06T10:08:37.715269909Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.722732145 UTC
+After serialization at 2024-12-06T10:08:37.722863835Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.731946269 UTC
+After serialization at 2024-12-06T10:08:37.732228912Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.740514646 UTC
+After serialization at 2024-12-06T10:08:37.740623997Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.745566563 UTC
+After serialization at 2024-12-06T10:08:37.745674255Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.749906747 UTC
+After serialization at 2024-12-06T10:08:37.750017414Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.756277583 UTC
+After serialization at 2024-12-06T10:08:37.756389162Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.761276559 UTC
+After serialization at 2024-12-06T10:08:37.761379886Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.767889899 UTC
+After serialization at 2024-12-06T10:08:37.768020748Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.772983392 UTC
+After serialization at 2024-12-06T10:08:37.773111332Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.779526893 UTC
+After serialization at 2024-12-06T10:08:37.779657616Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.785871744 UTC
+After serialization at 2024-12-06T10:08:37.785968916Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.791033384 UTC
+After serialization at 2024-12-06T10:08:37.791140274Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.796621153 UTC
+After serialization at 2024-12-06T10:08:37.796718130Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.803902719 UTC
+After serialization at 2024-12-06T10:08:37.803994411Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.809266540 UTC
+After serialization at 2024-12-06T10:08:37.809361553Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.813897026 UTC
+After serialization at 2024-12-06T10:08:37.813998261Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.821445341 UTC
+After serialization at 2024-12-06T10:08:37.821541086Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.824804083 UTC
+After serialization at 2024-12-06T10:08:37.824918445Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.829800323 UTC
+After serialization at 2024-12-06T10:08:37.829915548Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.836379233 UTC
+After serialization at 2024-12-06T10:08:37.836476053Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.845049912 UTC
+After serialization at 2024-12-06T10:08:37.845142032Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.849743837 UTC
+After serialization at 2024-12-06T10:08:37.849851053Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.855678877 UTC
+After serialization at 2024-12-06T10:08:37.855777845Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.860346210 UTC
+After serialization at 2024-12-06T10:08:37.860449991Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.865542486 UTC
+After serialization at 2024-12-06T10:08:37.865650119Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.871027056 UTC
+After serialization at 2024-12-06T10:08:37.871128156Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.876527411 UTC
+After serialization at 2024-12-06T10:08:37.876630920Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.882775293 UTC
+After serialization at 2024-12-06T10:08:37.882874369Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.887628799 UTC
+After serialization at 2024-12-06T10:08:37.887732846Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.893137676 UTC
+After serialization at 2024-12-06T10:08:37.893230627Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.898725843 UTC
+After serialization at 2024-12-06T10:08:37.898818793Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.903893804 UTC
+After serialization at 2024-12-06T10:08:37.903995035Z
+FnB Shim Finished. Result from moduleB: 5
+Received 10486024 bytes at 2024-12-06 10:08:37.908860576 UTC
+After serialization at 2024-12-06T10:08:37.908934629Z
+FnB Shim Finished. Result from moduleB: 5

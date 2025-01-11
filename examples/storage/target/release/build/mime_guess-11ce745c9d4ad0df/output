@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/zhengyuanfeng/Code/containerd-shim-cwasi/examples/storage/./target/release/build/mime_guess-11ce745c9d4ad0df/out/mime_types_generated.rs

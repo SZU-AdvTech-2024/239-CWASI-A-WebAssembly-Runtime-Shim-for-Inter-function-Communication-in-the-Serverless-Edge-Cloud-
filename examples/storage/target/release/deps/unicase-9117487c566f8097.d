@@ -1,0 +1,10 @@
+/home/zhengyuanfeng/Code/containerd-shim-cwasi/examples/storage/./target/release/deps/libunicase-9117487c566f8097.rmeta: /home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/lib.rs /home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/ascii.rs /home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/unicode/mod.rs /home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/unicode/map.rs
+
+/home/zhengyuanfeng/Code/containerd-shim-cwasi/examples/storage/./target/release/deps/libunicase-9117487c566f8097.rlib: /home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/lib.rs /home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/ascii.rs /home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/unicode/mod.rs /home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/unicode/map.rs
+
+/home/zhengyuanfeng/Code/containerd-shim-cwasi/examples/storage/./target/release/deps/unicase-9117487c566f8097.d: /home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/lib.rs /home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/ascii.rs /home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/unicode/mod.rs /home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/unicode/map.rs
+
+/home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/lib.rs:
+/home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/ascii.rs:
+/home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/unicode/mod.rs:
+/home/zhengyuanfeng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.0/src/unicode/map.rs:

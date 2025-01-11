@@ -1,0 +1,2031 @@
+opening stderr
+opening rootfs
+opening mounts
+mounts: [
+    "/dev",
+    "/dev/shm",
+    "/run",
+    "/etc/hosts",
+    "/etc/resolv.conf",
+]
+args ["/fanout-wasi.wasm", "/func_b.wasm", "file_10M.txt"]
+envs ["PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "STORAGE_IP=127.0.0.1:9999", "NUM_TASKS=200", "HOSTNAME=kubuntu"]
+register wasm app from file "/run/containerd/io.containerd.runtime.v2.task/mysp/faanoutt-wasii/rootfs/fanout-wasi.wasm"
+setting up wasi
+downloading http://127.0.0.1:9999/files/file_1M.txt
+================================================================================================
+preopens: [
+    "/:/run/containerd/io.containerd.runtime.v2.task/mysp/faanoutt-wasii/rootfs",
+    "/dev",
+    "/dev/shm",
+    "/run",
+    "/etc/hosts",
+    "/etc/resolv.conf",
+]
+[2024-12-06 18:08:35.262] [error] Bind guest directory failed:54
+[2024-12-06 18:08:35.262] [error] Bind guest directory failed:54
+================================================================================================
+module registered
+Secondary function 
+downloading http://127.0.0.1:9999/files/file_10M.txt
+---------------------------------------------------------------
+Starting task 1
+start transfer at 2024-12-06 10:08:36.655039470 UTC
+Server closed
+io duration: PT0.002742252S
+socket path 
+end transfer at 2024-12-06 10:08:36.662999977 UTC
+Finished task 1
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 2
+start transfer at 2024-12-06 10:08:36.666954290 UTC
+Server closed
+io duration: PT0.000569276S
+socket path 
+end transfer at 2024-12-06 10:08:36.674493863 UTC
+Finished task 2
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 3
+start transfer at 2024-12-06 10:08:36.678698949 UTC
+Server closed
+io duration: PT0.000548829S
+socket path 
+end transfer at 2024-12-06 10:08:36.682468063 UTC
+Finished task 3
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 4
+start transfer at 2024-12-06 10:08:36.686478463 UTC
+Server closed
+io duration: PT0.000497238S
+socket path 
+end transfer at 2024-12-06 10:08:36.689803189 UTC
+Finished task 4
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 5
+start transfer at 2024-12-06 10:08:36.693033380 UTC
+Server closed
+io duration: PT0.000660645S
+socket path 
+end transfer at 2024-12-06 10:08:36.696529247 UTC
+Finished task 5
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 6
+start transfer at 2024-12-06 10:08:36.699392889 UTC
+Server closed
+io duration: PT0.000588804S
+socket path 
+end transfer at 2024-12-06 10:08:36.702530951 UTC
+Finished task 6
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 7
+start transfer at 2024-12-06 10:08:36.705914848 UTC
+Server closed
+io duration: PT0.000708753S
+socket path 
+end transfer at 2024-12-06 10:08:36.709814045 UTC
+Finished task 7
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 8
+start transfer at 2024-12-06 10:08:36.712807369 UTC
+Server closed
+io duration: PT0.000536552S
+socket path 
+end transfer at 2024-12-06 10:08:36.715902810 UTC
+Finished task 8
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 9
+start transfer at 2024-12-06 10:08:36.718660450 UTC
+Server closed
+io duration: PT0.000994172S
+socket path 
+end transfer at 2024-12-06 10:08:36.722001156 UTC
+Finished task 9
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 10
+start transfer at 2024-12-06 10:08:36.724425187 UTC
+Server closed
+io duration: PT0.000439509S
+socket path 
+end transfer at 2024-12-06 10:08:36.727592491 UTC
+Finished task 10
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 11
+start transfer at 2024-12-06 10:08:36.730755179 UTC
+Server closed
+io duration: PT0.000548408S
+socket path 
+end transfer at 2024-12-06 10:08:36.733600087 UTC
+Finished task 11
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 12
+start transfer at 2024-12-06 10:08:36.736410536 UTC
+Server closed
+io duration: PT0.000703994S
+socket path 
+end transfer at 2024-12-06 10:08:36.739606173 UTC
+Finished task 12
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 13
+start transfer at 2024-12-06 10:08:36.742474496 UTC
+Server closed
+io duration: PT0.000438797S
+socket path 
+end transfer at 2024-12-06 10:08:36.745191192 UTC
+Finished task 13
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 14
+start transfer at 2024-12-06 10:08:36.748274826 UTC
+Server closed
+io duration: PT0.000411507S
+socket path 
+end transfer at 2024-12-06 10:08:36.750694346 UTC
+Finished task 14
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 15
+start transfer at 2024-12-06 10:08:36.753709224 UTC
+Server closed
+io duration: PT0.000543763S
+socket path 
+end transfer at 2024-12-06 10:08:36.756585045 UTC
+Finished task 15
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 16
+start transfer at 2024-12-06 10:08:36.759631561 UTC
+Server closed
+io duration: PT0.000579855S
+socket path 
+end transfer at 2024-12-06 10:08:36.762873873 UTC
+Finished task 16
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 17
+start transfer at 2024-12-06 10:08:36.766078516 UTC
+Server closed
+io duration: PT0.000622698S
+socket path 
+end transfer at 2024-12-06 10:08:36.769019167 UTC
+Finished task 17
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 18
+start transfer at 2024-12-06 10:08:36.773148758 UTC
+Server closed
+io duration: PT0.000735242S
+socket path 
+end transfer at 2024-12-06 10:08:36.777605086 UTC
+Finished task 18
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 19
+start transfer at 2024-12-06 10:08:36.780587377 UTC
+Server closed
+io duration: PT0.000543154S
+socket path 
+end transfer at 2024-12-06 10:08:36.783803707 UTC
+Finished task 19
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 20
+start transfer at 2024-12-06 10:08:36.786640345 UTC
+Server closed
+io duration: PT0.000479999S
+socket path 
+end transfer at 2024-12-06 10:08:36.789217307 UTC
+Finished task 20
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 21
+start transfer at 2024-12-06 10:08:36.792059648 UTC
+Server closed
+io duration: PT0.000465728S
+socket path 
+end transfer at 2024-12-06 10:08:36.795167556 UTC
+Finished task 21
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 22
+start transfer at 2024-12-06 10:08:36.798267074 UTC
+Server closed
+io duration: PT0.000489165S
+socket path 
+end transfer at 2024-12-06 10:08:36.801473109 UTC
+Finished task 22
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 23
+start transfer at 2024-12-06 10:08:36.805094343 UTC
+Server closed
+io duration: PT0.000544485S
+socket path 
+end transfer at 2024-12-06 10:08:36.809017204 UTC
+Finished task 23
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 24
+start transfer at 2024-12-06 10:08:36.811840047 UTC
+Server closed
+io duration: PT0.000696737S
+socket path 
+end transfer at 2024-12-06 10:08:36.814614412 UTC
+Finished task 24
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 25
+start transfer at 2024-12-06 10:08:36.817859027 UTC
+Server closed
+io duration: PT0.000648653S
+socket path 
+end transfer at 2024-12-06 10:08:36.820765540 UTC
+Finished task 25
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 26
+start transfer at 2024-12-06 10:08:36.823483006 UTC
+Server closed
+io duration: PT0.000528846S
+socket path 
+end transfer at 2024-12-06 10:08:36.826360944 UTC
+Finished task 26
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 27
+start transfer at 2024-12-06 10:08:36.829328806 UTC
+Server closed
+io duration: PT0.000453541S
+socket path 
+end transfer at 2024-12-06 10:08:36.832518563 UTC
+Finished task 27
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 28
+start transfer at 2024-12-06 10:08:36.835451782 UTC
+Server closed
+io duration: PT0.000584181S
+socket path 
+end transfer at 2024-12-06 10:08:36.838812324 UTC
+Finished task 28
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 29
+start transfer at 2024-12-06 10:08:36.841467200 UTC
+Server closed
+io duration: PT0.000586704S
+socket path 
+end transfer at 2024-12-06 10:08:36.844421182 UTC
+Finished task 29
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 30
+start transfer at 2024-12-06 10:08:36.847234729 UTC
+Server closed
+io duration: PT0.000603321S
+socket path 
+end transfer at 2024-12-06 10:08:36.850502727 UTC
+Finished task 30
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 31
+start transfer at 2024-12-06 10:08:36.852970961 UTC
+Server closed
+io duration: PT0.000631224S
+socket path 
+end transfer at 2024-12-06 10:08:36.856084561 UTC
+Finished task 31
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 32
+start transfer at 2024-12-06 10:08:36.858726087 UTC
+Server closed
+io duration: PT0.00063936S
+socket path 
+end transfer at 2024-12-06 10:08:36.861577481 UTC
+Finished task 32
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 33
+start transfer at 2024-12-06 10:08:36.864233943 UTC
+Server closed
+io duration: PT0.000426359S
+socket path 
+end transfer at 2024-12-06 10:08:36.867133358 UTC
+Finished task 33
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 34
+start transfer at 2024-12-06 10:08:36.870054378 UTC
+Server closed
+io duration: PT0.00044217S
+socket path 
+end transfer at 2024-12-06 10:08:36.872914129 UTC
+Finished task 34
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 35
+start transfer at 2024-12-06 10:08:36.876016041 UTC
+Server closed
+io duration: PT0.000493755S
+socket path 
+end transfer at 2024-12-06 10:08:36.879239772 UTC
+Finished task 35
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 36
+start transfer at 2024-12-06 10:08:36.882162476 UTC
+Server closed
+io duration: PT0.001122458S
+socket path 
+end transfer at 2024-12-06 10:08:36.886998115 UTC
+Finished task 36
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 37
+start transfer at 2024-12-06 10:08:36.889491434 UTC
+Server closed
+io duration: PT0.000532671S
+socket path 
+end transfer at 2024-12-06 10:08:36.892803487 UTC
+Finished task 37
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 38
+start transfer at 2024-12-06 10:08:36.895822239 UTC
+Server closed
+io duration: PT0.000502481S
+socket path 
+end transfer at 2024-12-06 10:08:36.898863541 UTC
+Finished task 38
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 39
+start transfer at 2024-12-06 10:08:36.901646365 UTC
+Server closed
+io duration: PT0.000495767S
+socket path 
+end transfer at 2024-12-06 10:08:36.904522723 UTC
+Finished task 39
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 40
+start transfer at 2024-12-06 10:08:36.907348509 UTC
+Server closed
+io duration: PT0.000621406S
+socket path 
+end transfer at 2024-12-06 10:08:36.910335136 UTC
+Finished task 40
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 41
+start transfer at 2024-12-06 10:08:36.913434960 UTC
+Server closed
+io duration: PT0.000437742S
+socket path 
+end transfer at 2024-12-06 10:08:36.916465892 UTC
+Finished task 41
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 42
+start transfer at 2024-12-06 10:08:36.919423350 UTC
+Server closed
+io duration: PT0.000469449S
+socket path 
+end transfer at 2024-12-06 10:08:36.922926832 UTC
+Finished task 42
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 43
+start transfer at 2024-12-06 10:08:36.925386074 UTC
+Server closed
+io duration: PT0.000704596S
+socket path 
+end transfer at 2024-12-06 10:08:36.928638623 UTC
+Finished task 43
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 44
+start transfer at 2024-12-06 10:08:36.932762842 UTC
+Server closed
+io duration: PT0.000517691S
+socket path 
+end transfer at 2024-12-06 10:08:36.936502046 UTC
+Finished task 44
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 45
+start transfer at 2024-12-06 10:08:36.939249399 UTC
+Server closed
+io duration: PT0.000535485S
+socket path 
+end transfer at 2024-12-06 10:08:36.942648321 UTC
+Finished task 45
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 46
+start transfer at 2024-12-06 10:08:36.945595655 UTC
+Server closed
+io duration: PT0.000602518S
+socket path 
+end transfer at 2024-12-06 10:08:36.948979075 UTC
+Finished task 46
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 47
+start transfer at 2024-12-06 10:08:36.951958145 UTC
+Server closed
+io duration: PT0.000496031S
+socket path 
+end transfer at 2024-12-06 10:08:36.955350200 UTC
+Finished task 47
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 48
+start transfer at 2024-12-06 10:08:36.958452205 UTC
+Server closed
+io duration: PT0.000533009S
+socket path 
+end transfer at 2024-12-06 10:08:36.961362607 UTC
+Finished task 48
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 49
+start transfer at 2024-12-06 10:08:36.964737434 UTC
+Server closed
+io duration: PT0.000420938S
+socket path 
+end transfer at 2024-12-06 10:08:36.967961807 UTC
+Finished task 49
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 50
+start transfer at 2024-12-06 10:08:36.971072484 UTC
+Server closed
+io duration: PT0.000495167S
+socket path 
+end transfer at 2024-12-06 10:08:36.974317027 UTC
+Finished task 50
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 51
+start transfer at 2024-12-06 10:08:36.977246429 UTC
+Server closed
+io duration: PT0.000472525S
+socket path 
+end transfer at 2024-12-06 10:08:36.980319539 UTC
+Finished task 51
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 52
+start transfer at 2024-12-06 10:08:36.983584356 UTC
+Server closed
+io duration: PT0.000666412S
+socket path 
+end transfer at 2024-12-06 10:08:36.986744095 UTC
+Finished task 52
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 53
+start transfer at 2024-12-06 10:08:36.989508796 UTC
+Server closed
+io duration: PT0.000496654S
+socket path 
+end transfer at 2024-12-06 10:08:36.992497592 UTC
+Finished task 53
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 54
+start transfer at 2024-12-06 10:08:36.995383597 UTC
+Server closed
+io duration: PT0.000523696S
+socket path 
+end transfer at 2024-12-06 10:08:36.999228540 UTC
+Finished task 54
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 55
+start transfer at 2024-12-06 10:08:37.002163046 UTC
+Server closed
+io duration: PT0.000382118S
+socket path 
+end transfer at 2024-12-06 10:08:37.004918630 UTC
+Finished task 55
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 56
+start transfer at 2024-12-06 10:08:37.008039505 UTC
+Server closed
+io duration: PT0.00057101S
+socket path 
+end transfer at 2024-12-06 10:08:37.010847586 UTC
+Finished task 56
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 57
+start transfer at 2024-12-06 10:08:37.015299573 UTC
+Server closed
+io duration: PT0.00058132S
+socket path 
+end transfer at 2024-12-06 10:08:37.019094804 UTC
+Finished task 57
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 58
+start transfer at 2024-12-06 10:08:37.022046748 UTC
+Server closed
+io duration: PT0.000520731S
+socket path 
+end transfer at 2024-12-06 10:08:37.024930266 UTC
+Finished task 58
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 59
+start transfer at 2024-12-06 10:08:37.027764422 UTC
+Server closed
+io duration: PT0.000506767S
+socket path 
+end transfer at 2024-12-06 10:08:37.030659890 UTC
+Finished task 59
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 60
+start transfer at 2024-12-06 10:08:37.033854790 UTC
+Server closed
+io duration: PT0.000470346S
+socket path 
+end transfer at 2024-12-06 10:08:37.036983278 UTC
+Finished task 60
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 61
+start transfer at 2024-12-06 10:08:37.040292478 UTC
+Server closed
+io duration: PT0.000645157S
+socket path 
+end transfer at 2024-12-06 10:08:37.043664725 UTC
+Finished task 61
+---------------------------------------------------------------
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+---------------------------------------------------------------
+Starting task 62
+start transfer at 2024-12-06 10:08:37.047449960 UTC
+Server closed
+io duration: PT0.000626727S
+socket path 
+end transfer at 2024-12-06 10:08:37.050522794 UTC
+Finished task 62
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 63
+start transfer at 2024-12-06 10:08:37.053277401 UTC
+Server closed
+io duration: PT0.000637692S
+socket path 
+end transfer at 2024-12-06 10:08:37.056562285 UTC
+Finished task 63
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 64
+start transfer at 2024-12-06 10:08:37.059545689 UTC
+Server closed
+io duration: PT0.000587148S
+socket path 
+end transfer at 2024-12-06 10:08:37.062716343 UTC
+Finished task 64
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 65
+start transfer at 2024-12-06 10:08:37.065746724 UTC
+Server closed
+io duration: PT0.000617651S
+socket path 
+end transfer at 2024-12-06 10:08:37.069634356 UTC
+Finished task 65
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 66
+start transfer at 2024-12-06 10:08:37.072921672 UTC
+Server closed
+io duration: PT0.000493123S
+socket path 
+end transfer at 2024-12-06 10:08:37.076598625 UTC
+Finished task 66
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 67
+start transfer at 2024-12-06 10:08:37.079606257 UTC
+Server closed
+io duration: PT0.000523642S
+socket path 
+end transfer at 2024-12-06 10:08:37.083268568 UTC
+Finished task 67
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 68
+start transfer at 2024-12-06 10:08:37.086044379 UTC
+Server closed
+io duration: PT0.000413242S
+socket path 
+end transfer at 2024-12-06 10:08:37.089047900 UTC
+Finished task 68
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 69
+start transfer at 2024-12-06 10:08:37.091949901 UTC
+Server closed
+io duration: PT0.000449365S
+socket path 
+end transfer at 2024-12-06 10:08:37.095104783 UTC
+Finished task 69
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 70
+start transfer at 2024-12-06 10:08:37.098186710 UTC
+Server closed
+io duration: PT0.000561251S
+socket path 
+end transfer at 2024-12-06 10:08:37.101295695 UTC
+Finished task 70
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 71
+start transfer at 2024-12-06 10:08:37.104041794 UTC
+Server closed
+io duration: PT0.000691664S
+socket path 
+end transfer at 2024-12-06 10:08:37.107641816 UTC
+Finished task 71
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 72
+start transfer at 2024-12-06 10:08:37.110219424 UTC
+Server closed
+io duration: PT0.000486203S
+socket path 
+end transfer at 2024-12-06 10:08:37.113358730 UTC
+Finished task 72
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 73
+start transfer at 2024-12-06 10:08:37.116307384 UTC
+Server closed
+io duration: PT0.000464631S
+socket path 
+end transfer at 2024-12-06 10:08:37.119645445 UTC
+Finished task 73
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 74
+start transfer at 2024-12-06 10:08:37.122279398 UTC
+Server closed
+io duration: PT0.000536869S
+socket path 
+end transfer at 2024-12-06 10:08:37.124858613 UTC
+Finished task 74
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 75
+start transfer at 2024-12-06 10:08:37.127929003 UTC
+Server closed
+io duration: PT0.000448488S
+socket path 
+end transfer at 2024-12-06 10:08:37.131296077 UTC
+Finished task 75
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 76
+start transfer at 2024-12-06 10:08:37.134242416 UTC
+Server closed
+io duration: PT0.000391375S
+socket path 
+end transfer at 2024-12-06 10:08:37.136560182 UTC
+Finished task 76
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 77
+start transfer at 2024-12-06 10:08:37.139525530 UTC
+Server closed
+io duration: PT0.000455839S
+socket path 
+end transfer at 2024-12-06 10:08:37.142557882 UTC
+Finished task 77
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 78
+start transfer at 2024-12-06 10:08:37.145373936 UTC
+Server closed
+io duration: PT0.000718873S
+socket path 
+end transfer at 2024-12-06 10:08:37.148740488 UTC
+Finished task 78
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 79
+start transfer at 2024-12-06 10:08:37.152716173 UTC
+Server closed
+io duration: PT0.000693166S
+socket path 
+end transfer at 2024-12-06 10:08:37.156519939 UTC
+Finished task 79
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 80
+start transfer at 2024-12-06 10:08:37.159255905 UTC
+Server closed
+io duration: PT0.000584699S
+socket path 
+end transfer at 2024-12-06 10:08:37.162943550 UTC
+Finished task 80
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 81
+start transfer at 2024-12-06 10:08:37.165313938 UTC
+Server closed
+io duration: PT0.000384216S
+socket path 
+end transfer at 2024-12-06 10:08:37.167844415 UTC
+Finished task 81
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 82
+start transfer at 2024-12-06 10:08:37.170771175 UTC
+Server closed
+io duration: PT0.000593637S
+socket path 
+end transfer at 2024-12-06 10:08:37.173849804 UTC
+Finished task 82
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 83
+start transfer at 2024-12-06 10:08:37.177220450 UTC
+Server closed
+io duration: PT0.000589032S
+socket path 
+end transfer at 2024-12-06 10:08:37.181278608 UTC
+Finished task 83
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 84
+start transfer at 2024-12-06 10:08:37.184205489 UTC
+Server closed
+io duration: PT0.000461727S
+socket path 
+end transfer at 2024-12-06 10:08:37.187688277 UTC
+Finished task 84
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 85
+start transfer at 2024-12-06 10:08:37.190386702 UTC
+Server closed
+io duration: PT0.000767769S
+socket path 
+end transfer at 2024-12-06 10:08:37.193417519 UTC
+Finished task 85
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 86
+start transfer at 2024-12-06 10:08:37.196318141 UTC
+Server closed
+io duration: PT0.000512168S
+socket path 
+end transfer at 2024-12-06 10:08:37.199587788 UTC
+Finished task 86
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 87
+start transfer at 2024-12-06 10:08:37.202290956 UTC
+Server closed
+io duration: PT0.000472547S
+socket path 
+end transfer at 2024-12-06 10:08:37.205265947 UTC
+Finished task 87
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 88
+start transfer at 2024-12-06 10:08:37.208111912 UTC
+Server closed
+io duration: PT0.000441717S
+socket path 
+end transfer at 2024-12-06 10:08:37.211099771 UTC
+Finished task 88
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 89
+start transfer at 2024-12-06 10:08:37.213816310 UTC
+Server closed
+io duration: PT0.000533609S
+socket path 
+end transfer at 2024-12-06 10:08:37.216839298 UTC
+Finished task 89
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 90
+start transfer at 2024-12-06 10:08:37.219666525 UTC
+Server closed
+io duration: PT0.000440592S
+socket path 
+end transfer at 2024-12-06 10:08:37.222626870 UTC
+Finished task 90
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 91
+start transfer at 2024-12-06 10:08:37.225530009 UTC
+Server closed
+io duration: PT0.000492168S
+socket path 
+end transfer at 2024-12-06 10:08:37.228324770 UTC
+Finished task 91
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 92
+start transfer at 2024-12-06 10:08:37.231515143 UTC
+Server closed
+io duration: PT0.000414837S
+socket path 
+end transfer at 2024-12-06 10:08:37.234688553 UTC
+Finished task 92
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 93
+start transfer at 2024-12-06 10:08:37.238369362 UTC
+Server closed
+io duration: PT0.000632618S
+socket path 
+end transfer at 2024-12-06 10:08:37.241569105 UTC
+Finished task 93
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 94
+start transfer at 2024-12-06 10:08:37.244398066 UTC
+Server closed
+io duration: PT0.000385708S
+socket path 
+end transfer at 2024-12-06 10:08:37.247124222 UTC
+Finished task 94
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 95
+start transfer at 2024-12-06 10:08:37.250199358 UTC
+Server closed
+io duration: PT0.000483073S
+socket path 
+end transfer at 2024-12-06 10:08:37.252786349 UTC
+Finished task 95
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 96
+start transfer at 2024-12-06 10:08:37.255615838 UTC
+Server closed
+io duration: PT0.000553227S
+socket path 
+end transfer at 2024-12-06 10:08:37.258619598 UTC
+Finished task 96
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 97
+start transfer at 2024-12-06 10:08:37.262463327 UTC
+Server closed
+io duration: PT0.000582916S
+socket path 
+end transfer at 2024-12-06 10:08:37.266603731 UTC
+Finished task 97
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 98
+start transfer at 2024-12-06 10:08:37.269452479 UTC
+Server closed
+io duration: PT0.000544223S
+socket path 
+end transfer at 2024-12-06 10:08:37.272093557 UTC
+Finished task 98
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 99
+start transfer at 2024-12-06 10:08:37.274762719 UTC
+Server closed
+io duration: PT0.00052312S
+socket path 
+end transfer at 2024-12-06 10:08:37.277733111 UTC
+Finished task 99
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 100
+start transfer at 2024-12-06 10:08:37.280749200 UTC
+Server closed
+io duration: PT0.00038477S
+socket path 
+end transfer at 2024-12-06 10:08:37.283769103 UTC
+Finished task 100
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 101
+start transfer at 2024-12-06 10:08:37.286717451 UTC
+Server closed
+io duration: PT0.000567512S
+socket path 
+end transfer at 2024-12-06 10:08:37.289844541 UTC
+Finished task 101
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 102
+start transfer at 2024-12-06 10:08:37.292516439 UTC
+Server closed
+io duration: PT0.000478641S
+socket path 
+end transfer at 2024-12-06 10:08:37.295455286 UTC
+Finished task 102
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 103
+start transfer at 2024-12-06 10:08:37.298494478 UTC
+Server closed
+io duration: PT0.000558898S
+socket path 
+end transfer at 2024-12-06 10:08:37.302245907 UTC
+Finished task 103
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 104
+start transfer at 2024-12-06 10:08:37.305041595 UTC
+Server closed
+io duration: PT0.000669805S
+socket path 
+end transfer at 2024-12-06 10:08:37.308271624 UTC
+Finished task 104
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 105
+start transfer at 2024-12-06 10:08:37.311013704 UTC
+Server closed
+io duration: PT0.00060366S
+socket path 
+end transfer at 2024-12-06 10:08:37.314987497 UTC
+Finished task 105
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 106
+start transfer at 2024-12-06 10:08:37.317381417 UTC
+Server closed
+io duration: PT0.000603878S
+socket path 
+end transfer at 2024-12-06 10:08:37.320352447 UTC
+Finished task 106
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 107
+start transfer at 2024-12-06 10:08:37.322890579 UTC
+Server closed
+io duration: PT0.00052838S
+socket path 
+end transfer at 2024-12-06 10:08:37.325865961 UTC
+Finished task 107
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 108
+start transfer at 2024-12-06 10:08:37.329743556 UTC
+Server closed
+io duration: PT0.000601618S
+socket path 
+end transfer at 2024-12-06 10:08:37.333521183 UTC
+Finished task 108
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 109
+start transfer at 2024-12-06 10:08:37.336220441 UTC
+Server closed
+io duration: PT0.000506761S
+socket path 
+end transfer at 2024-12-06 10:08:37.339323982 UTC
+Finished task 109
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 110
+start transfer at 2024-12-06 10:08:37.342236719 UTC
+Server closed
+io duration: PT0.000731181S
+socket path 
+end transfer at 2024-12-06 10:08:37.345449201 UTC
+Finished task 110
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 111
+start transfer at 2024-12-06 10:08:37.348259109 UTC
+Server closed
+io duration: PT0.000729006S
+socket path 
+end transfer at 2024-12-06 10:08:37.351310624 UTC
+Finished task 111
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 112
+start transfer at 2024-12-06 10:08:37.354104608 UTC
+Server closed
+io duration: PT0.000656544S
+socket path 
+end transfer at 2024-12-06 10:08:37.357134145 UTC
+Finished task 112
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 113
+start transfer at 2024-12-06 10:08:37.359936067 UTC
+Server closed
+io duration: PT0.000469236S
+socket path 
+end transfer at 2024-12-06 10:08:37.362643431 UTC
+Finished task 113
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 114
+start transfer at 2024-12-06 10:08:37.365757843 UTC
+Server closed
+io duration: PT0.000455928S
+socket path 
+end transfer at 2024-12-06 10:08:37.368397578 UTC
+Finished task 114
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 115
+start transfer at 2024-12-06 10:08:37.372237693 UTC
+Server closed
+io duration: PT0.000568769S
+socket path 
+end transfer at 2024-12-06 10:08:37.375509935 UTC
+Finished task 115
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 116
+start transfer at 2024-12-06 10:08:37.378675386 UTC
+Server closed
+io duration: PT0.000817945S
+socket path 
+end transfer at 2024-12-06 10:08:37.381619769 UTC
+Finished task 116
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 117
+start transfer at 2024-12-06 10:08:37.384390046 UTC
+Server closed
+io duration: PT0.000585805S
+socket path 
+end transfer at 2024-12-06 10:08:37.387396476 UTC
+Finished task 117
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 118
+start transfer at 2024-12-06 10:08:37.390305088 UTC
+Server closed
+io duration: PT0.000606372S
+socket path 
+end transfer at 2024-12-06 10:08:37.393295871 UTC
+Finished task 118
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 119
+start transfer at 2024-12-06 10:08:37.396097485 UTC
+Server closed
+io duration: PT0.000587688S
+socket path 
+end transfer at 2024-12-06 10:08:37.399066849 UTC
+Finished task 119
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 120
+start transfer at 2024-12-06 10:08:37.402902154 UTC
+Server closed
+io duration: PT0.000536309S
+socket path 
+end transfer at 2024-12-06 10:08:37.406364644 UTC
+Finished task 120
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 121
+start transfer at 2024-12-06 10:08:37.409283676 UTC
+Server closed
+io duration: PT0.00049241S
+socket path 
+end transfer at 2024-12-06 10:08:37.412121022 UTC
+Finished task 121
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 122
+start transfer at 2024-12-06 10:08:37.415065135 UTC
+Server closed
+io duration: PT0.000508793S
+socket path 
+end transfer at 2024-12-06 10:08:37.418243186 UTC
+Finished task 122
+---------------------------------------------------------------
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+---------------------------------------------------------------
+Starting task 123
+start transfer at 2024-12-06 10:08:37.421654671 UTC
+Server closed
+io duration: PT0.000585991S
+socket path 
+end transfer at 2024-12-06 10:08:37.424719315 UTC
+Finished task 123
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 124
+start transfer at 2024-12-06 10:08:37.427445545 UTC
+Server closed
+io duration: PT0.000530922S
+socket path 
+end transfer at 2024-12-06 10:08:37.430118116 UTC
+Finished task 124
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 125
+start transfer at 2024-12-06 10:08:37.433194648 UTC
+Server closed
+io duration: PT0.00046006S
+socket path 
+end transfer at 2024-12-06 10:08:37.436265620 UTC
+Finished task 125
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 126
+start transfer at 2024-12-06 10:08:37.439118971 UTC
+Server closed
+io duration: PT0.000442803S
+socket path 
+end transfer at 2024-12-06 10:08:37.442191973 UTC
+Finished task 126
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 127
+start transfer at 2024-12-06 10:08:37.445338801 UTC
+Server closed
+io duration: PT0.000543874S
+socket path 
+end transfer at 2024-12-06 10:08:37.448629361 UTC
+Finished task 127
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 128
+start transfer at 2024-12-06 10:08:37.451410655 UTC
+Server closed
+io duration: PT0.000482829S
+socket path 
+end transfer at 2024-12-06 10:08:37.454005035 UTC
+Finished task 128
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 129
+start transfer at 2024-12-06 10:08:37.456886100 UTC
+Server closed
+io duration: PT0.000513653S
+socket path 
+end transfer at 2024-12-06 10:08:37.460182489 UTC
+Finished task 129
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 130
+start transfer at 2024-12-06 10:08:37.463217444 UTC
+Server closed
+io duration: PT0.000475617S
+socket path 
+end transfer at 2024-12-06 10:08:37.466148212 UTC
+Finished task 130
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 131
+start transfer at 2024-12-06 10:08:37.469007346 UTC
+Server closed
+io duration: PT0.000476702S
+socket path 
+end transfer at 2024-12-06 10:08:37.472063667 UTC
+Finished task 131
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 132
+start transfer at 2024-12-06 10:08:37.475074537 UTC
+Server closed
+io duration: PT0.000417431S
+socket path 
+end transfer at 2024-12-06 10:08:37.478192502 UTC
+Finished task 132
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 133
+start transfer at 2024-12-06 10:08:37.482042978 UTC
+Server closed
+io duration: PT0.000544929S
+socket path 
+end transfer at 2024-12-06 10:08:37.485563249 UTC
+Finished task 133
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 134
+start transfer at 2024-12-06 10:08:37.488361525 UTC
+Server closed
+io duration: PT0.000655355S
+socket path 
+end transfer at 2024-12-06 10:08:37.491490835 UTC
+Finished task 134
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 135
+start transfer at 2024-12-06 10:08:37.494289306 UTC
+Server closed
+io duration: PT0.000538945S
+socket path 
+end transfer at 2024-12-06 10:08:37.497267039 UTC
+Finished task 135
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 136
+start transfer at 2024-12-06 10:08:37.499992865 UTC
+Server closed
+io duration: PT0.000501513S
+socket path 
+end transfer at 2024-12-06 10:08:37.502868250 UTC
+Finished task 136
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 137
+start transfer at 2024-12-06 10:08:37.505597272 UTC
+Server closed
+io duration: PT0.000454942S
+socket path 
+end transfer at 2024-12-06 10:08:37.508238994 UTC
+Finished task 137
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 138
+start transfer at 2024-12-06 10:08:37.511404108 UTC
+Server closed
+io duration: PT0.000497437S
+socket path 
+end transfer at 2024-12-06 10:08:37.514463821 UTC
+Finished task 138
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 139
+start transfer at 2024-12-06 10:08:37.517625015 UTC
+Server closed
+io duration: PT0.000454812S
+socket path 
+end transfer at 2024-12-06 10:08:37.520776333 UTC
+Finished task 139
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 140
+start transfer at 2024-12-06 10:08:37.523523711 UTC
+Server closed
+io duration: PT0.000420826S
+socket path 
+end transfer at 2024-12-06 10:08:37.526257660 UTC
+Finished task 140
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 141
+start transfer at 2024-12-06 10:08:37.529033641 UTC
+Server closed
+io duration: PT0.000416603S
+socket path 
+end transfer at 2024-12-06 10:08:37.531950394 UTC
+Finished task 141
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 142
+start transfer at 2024-12-06 10:08:37.534737670 UTC
+Server closed
+io duration: PT0.000454754S
+socket path 
+end transfer at 2024-12-06 10:08:37.537679693 UTC
+Finished task 142
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 143
+start transfer at 2024-12-06 10:08:37.540603344 UTC
+Server closed
+io duration: PT0.000522808S
+socket path 
+end transfer at 2024-12-06 10:08:37.543242561 UTC
+Finished task 143
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 144
+start transfer at 2024-12-06 10:08:37.546177591 UTC
+Server closed
+io duration: PT0.000423902S
+socket path 
+end transfer at 2024-12-06 10:08:37.548955981 UTC
+Finished task 144
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 145
+start transfer at 2024-12-06 10:08:37.552113651 UTC
+Server closed
+io duration: PT0.000424807S
+socket path 
+end transfer at 2024-12-06 10:08:37.554852172 UTC
+Finished task 145
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 146
+start transfer at 2024-12-06 10:08:37.557810054 UTC
+Server closed
+io duration: PT0.000584394S
+socket path 
+end transfer at 2024-12-06 10:08:37.560632477 UTC
+Finished task 146
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 147
+start transfer at 2024-12-06 10:08:37.563550945 UTC
+Server closed
+io duration: PT0.000353568S
+socket path 
+end transfer at 2024-12-06 10:08:37.566087970 UTC
+Finished task 147
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 148
+start transfer at 2024-12-06 10:08:37.569174504 UTC
+Server closed
+io duration: PT0.000437328S
+socket path 
+end transfer at 2024-12-06 10:08:37.571799724 UTC
+Finished task 148
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 149
+start transfer at 2024-12-06 10:08:37.574834328 UTC
+Server closed
+io duration: PT0.000515734S
+socket path 
+end transfer at 2024-12-06 10:08:37.578038170 UTC
+Finished task 149
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 150
+start transfer at 2024-12-06 10:08:37.580929465 UTC
+Server closed
+io duration: PT0.00061448S
+socket path 
+end transfer at 2024-12-06 10:08:37.583921134 UTC
+Finished task 150
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 151
+start transfer at 2024-12-06 10:08:37.586650175 UTC
+Server closed
+io duration: PT0.000472606S
+socket path 
+end transfer at 2024-12-06 10:08:37.589597456 UTC
+Finished task 151
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 152
+start transfer at 2024-12-06 10:08:37.592358629 UTC
+Server closed
+io duration: PT0.000466308S
+socket path 
+end transfer at 2024-12-06 10:08:37.595257636 UTC
+Finished task 152
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 153
+start transfer at 2024-12-06 10:08:37.598335536 UTC
+Server closed
+io duration: PT0.000426646S
+socket path 
+end transfer at 2024-12-06 10:08:37.600805291 UTC
+Finished task 153
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 154
+start transfer at 2024-12-06 10:08:37.603608280 UTC
+Server closed
+io duration: PT0.000457547S
+socket path 
+end transfer at 2024-12-06 10:08:37.606678910 UTC
+Finished task 154
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 155
+start transfer at 2024-12-06 10:08:37.610772304 UTC
+Server closed
+io duration: PT0.000685703S
+socket path 
+end transfer at 2024-12-06 10:08:37.614529680 UTC
+Finished task 155
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 156
+start transfer at 2024-12-06 10:08:37.617413331 UTC
+Server closed
+io duration: PT0.000767872S
+socket path 
+end transfer at 2024-12-06 10:08:37.620132655 UTC
+Finished task 156
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 157
+start transfer at 2024-12-06 10:08:37.623032157 UTC
+Server closed
+io duration: PT0.00068546S
+socket path 
+end transfer at 2024-12-06 10:08:37.626435830 UTC
+Finished task 157
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 158
+start transfer at 2024-12-06 10:08:37.630894593 UTC
+Server closed
+io duration: PT0.001261204S
+socket path 
+end transfer at 2024-12-06 10:08:37.636286531 UTC
+Finished task 158
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 159
+start transfer at 2024-12-06 10:08:37.640659927 UTC
+Server closed
+io duration: PT0.000583395S
+socket path 
+end transfer at 2024-12-06 10:08:37.645091855 UTC
+Finished task 159
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 160
+start transfer at 2024-12-06 10:08:37.648585523 UTC
+Server closed
+io duration: PT0.001146487S
+socket path 
+end transfer at 2024-12-06 10:08:37.653297374 UTC
+Finished task 160
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 161
+start transfer at 2024-12-06 10:08:37.656585471 UTC
+Server closed
+io duration: PT0.000864383S
+socket path 
+end transfer at 2024-12-06 10:08:37.663203252 UTC
+Finished task 161
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 162
+start transfer at 2024-12-06 10:08:37.666154102 UTC
+Server closed
+io duration: PT0.000684186S
+socket path 
+end transfer at 2024-12-06 10:08:37.670689361 UTC
+Finished task 162
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 163
+start transfer at 2024-12-06 10:08:37.674457343 UTC
+Server closed
+io duration: PT0.000684771S
+socket path 
+end transfer at 2024-12-06 10:08:37.678617424 UTC
+Finished task 163
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 164
+start transfer at 2024-12-06 10:08:37.681990084 UTC
+Server closed
+io duration: PT0.000555344S
+socket path 
+end transfer at 2024-12-06 10:08:37.686236913 UTC
+Finished task 164
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 165
+start transfer at 2024-12-06 10:08:37.690413023 UTC
+Server closed
+io duration: PT0.000753674S
+socket path 
+end transfer at 2024-12-06 10:08:37.696921060 UTC
+Finished task 165
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 166
+start transfer at 2024-12-06 10:08:37.699929076 UTC
+Server closed
+io duration: PT0.000806399S
+socket path 
+end transfer at 2024-12-06 10:08:37.704836432 UTC
+Finished task 166
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 167
+start transfer at 2024-12-06 10:08:37.707789019 UTC
+Server closed
+io duration: PT0.000862276S
+socket path 
+end transfer at 2024-12-06 10:08:37.711956268 UTC
+Finished task 167
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 168
+start transfer at 2024-12-06 10:08:37.715432206 UTC
+Server closed
+io duration: PT0.000781555S
+socket path 
+end transfer at 2024-12-06 10:08:37.719735767 UTC
+Finished task 168
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 169
+start transfer at 2024-12-06 10:08:37.723182682 UTC
+Server closed
+io duration: PT0.001027744S
+socket path 
+end transfer at 2024-12-06 10:08:37.730383919 UTC
+Finished task 169
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 170
+start transfer at 2024-12-06 10:08:37.733889058 UTC
+Server closed
+io duration: PT0.000544302S
+socket path 
+end transfer at 2024-12-06 10:08:37.737907666 UTC
+Finished task 170
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 171
+start transfer at 2024-12-06 10:08:37.740193448 UTC
+Server closed
+io duration: PT0.000495612S
+socket path 
+end transfer at 2024-12-06 10:08:37.742730345 UTC
+Finished task 171
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 172
+start transfer at 2024-12-06 10:08:37.745649107 UTC
+Server closed
+io duration: PT0.000416571S
+socket path 
+end transfer at 2024-12-06 10:08:37.748255675 UTC
+Finished task 172
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 173
+start transfer at 2024-12-06 10:08:37.750913979 UTC
+Server closed
+io duration: PT0.000600831S
+socket path 
+end transfer at 2024-12-06 10:08:37.753939187 UTC
+Finished task 173
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 174
+start transfer at 2024-12-06 10:08:37.756689129 UTC
+Server closed
+io duration: PT0.000431534S
+socket path 
+end transfer at 2024-12-06 10:08:37.759617150 UTC
+Finished task 174
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 175
+start transfer at 2024-12-06 10:08:37.762265690 UTC
+Server closed
+io duration: PT0.000735958S
+socket path 
+end transfer at 2024-12-06 10:08:37.765370461 UTC
+Finished task 175
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 176
+start transfer at 2024-12-06 10:08:37.768389288 UTC
+Server closed
+io duration: PT0.000477508S
+socket path 
+end transfer at 2024-12-06 10:08:37.771463092 UTC
+Finished task 176
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 177
+start transfer at 2024-12-06 10:08:37.774209567 UTC
+Server closed
+io duration: PT0.000484525S
+socket path 
+end transfer at 2024-12-06 10:08:37.777388882 UTC
+Finished task 177
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 178
+start transfer at 2024-12-06 10:08:37.780288038 UTC
+Server closed
+io duration: PT0.000418582S
+socket path 
+end transfer at 2024-12-06 10:08:37.782943656 UTC
+Finished task 178
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 179
+start transfer at 2024-12-06 10:08:37.785931152 UTC
+Server closed
+io duration: PT0.000420524S
+socket path 
+end transfer at 2024-12-06 10:08:37.788776595 UTC
+Finished task 179
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 180
+start transfer at 2024-12-06 10:08:37.791552302 UTC
+Server closed
+io duration: PT0.000528044S
+socket path 
+end transfer at 2024-12-06 10:08:37.794894280 UTC
+Finished task 180
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 181
+start transfer at 2024-12-06 10:08:37.798543344 UTC
+Server closed
+io duration: PT0.000639644S
+socket path 
+end transfer at 2024-12-06 10:08:37.801966595 UTC
+Finished task 181
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 182
+start transfer at 2024-12-06 10:08:37.804349493 UTC
+Server closed
+io duration: PT0.000568041S
+socket path 
+end transfer at 2024-12-06 10:08:37.807316335 UTC
+Finished task 182
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 183
+start transfer at 2024-12-06 10:08:37.809908116 UTC
+Server closed
+io duration: PT0.000537852S
+socket path 
+end transfer at 2024-12-06 10:08:37.812617874 UTC
+Finished task 183
+---------------------------------------------------------------
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+---------------------------------------------------------------
+Starting task 184
+start transfer at 2024-12-06 10:08:37.815482535 UTC
+Server closed
+io duration: PT0.000519532S
+socket path 
+end transfer at 2024-12-06 10:08:37.818453548 UTC
+Finished task 184
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 185
+start transfer at 2024-12-06 10:08:37.820726700 UTC
+Server closed
+io duration: PT0.000547435S
+socket path 
+end transfer at 2024-12-06 10:08:37.823700063 UTC
+Finished task 185
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 186
+start transfer at 2024-12-06 10:08:37.826029990 UTC
+Server closed
+io duration: PT0.000520685S
+socket path 
+end transfer at 2024-12-06 10:08:37.828910808 UTC
+Finished task 186
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 187
+start transfer at 2024-12-06 10:08:37.831532352 UTC
+Server closed
+io duration: PT0.000646477S
+socket path 
+end transfer at 2024-12-06 10:08:37.834698764 UTC
+Finished task 187
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 188
+start transfer at 2024-12-06 10:08:37.838556544 UTC
+Server closed
+io duration: PT0.000590539S
+socket path 
+end transfer at 2024-12-06 10:08:37.842425215 UTC
+Finished task 188
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 189
+start transfer at 2024-12-06 10:08:37.844438966 UTC
+Server closed
+io duration: PT0.000445929S
+socket path 
+end transfer at 2024-12-06 10:08:37.847543656 UTC
+Finished task 189
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 190
+start transfer at 2024-12-06 10:08:37.850325225 UTC
+Server closed
+io duration: PT0.000354875S
+socket path 
+end transfer at 2024-12-06 10:08:37.852826250 UTC
+Finished task 190
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 191
+start transfer at 2024-12-06 10:08:37.855721460 UTC
+Server closed
+io duration: PT0.000526124S
+socket path 
+end transfer at 2024-12-06 10:08:37.858518343 UTC
+Finished task 191
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 192
+start transfer at 2024-12-06 10:08:37.861057197 UTC
+Server closed
+io duration: PT0.000643736S
+socket path 
+end transfer at 2024-12-06 10:08:37.863767228 UTC
+Finished task 192
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 193
+start transfer at 2024-12-06 10:08:37.866393424 UTC
+Server closed
+io duration: PT0.000671467S
+socket path 
+end transfer at 2024-12-06 10:08:37.869741662 UTC
+Finished task 193
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 194
+start transfer at 2024-12-06 10:08:37.872049177 UTC
+Server closed
+io duration: PT0.000437655S
+socket path 
+end transfer at 2024-12-06 10:08:37.874815668 UTC
+Finished task 194
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 195
+start transfer at 2024-12-06 10:08:37.877306130 UTC
+Server closed
+io duration: PT0.000430352S
+socket path 
+end transfer at 2024-12-06 10:08:37.880372114 UTC
+Finished task 195
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 196
+start transfer at 2024-12-06 10:08:37.883192141 UTC
+Server closed
+io duration: PT0.000450173S
+socket path 
+end transfer at 2024-12-06 10:08:37.886032800 UTC
+Finished task 196
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 197
+start transfer at 2024-12-06 10:08:37.888680022 UTC
+Server closed
+io duration: PT0.000753056S
+socket path 
+end transfer at 2024-12-06 10:08:37.891667332 UTC
+Finished task 197
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 198
+start transfer at 2024-12-06 10:08:37.894125308 UTC
+Server closed
+io duration: PT0.00051991S
+socket path 
+end transfer at 2024-12-06 10:08:37.897117042 UTC
+Finished task 198
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 199
+start transfer at 2024-12-06 10:08:37.899551624 UTC
+Server closed
+io duration: PT0.000695041S
+socket path 
+end transfer at 2024-12-06 10:08:37.902807520 UTC
+Finished task 199
+---------------------------------------------------------------
+---------------------------------------------------------------
+Starting task 200
+start transfer at 2024-12-06 10:08:37.905052701 UTC
+Server closed
+io duration: PT0.000390149S
+socket path 
+end transfer at 2024-12-06 10:08:37.907557521 UTC
+Finished task 200
+---------------------------------------------------------------
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+handle...
+All tasks completed.

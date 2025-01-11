@@ -1,0 +1,33 @@
+opening stderr
+opening rootfs
+opening mounts
+mounts: [
+    "/dev",
+    "/dev/shm",
+    "/run",
+    "/etc/hosts",
+    "/etc/resolv.conf",
+]
+args ["/fanout-wasi.wasm", "/func_b.wasm", "file_2M.txt"]
+envs ["PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "STORAGE_IP=127.0.0.1:9999", "NUM_TASKS=1", "HOSTNAME=kubuntu"]
+register wasm app from file "/run/containerd/io.containerd.runtime.v2.task/mysp/fanout-wassi/rootfs/fanout-wasi.wasm"
+setting up wasi
+downloading http://127.0.0.1:9999/files/file_1M.txt
+================================================================================================
+preopens: [
+    "/:/run/containerd/io.containerd.runtime.v2.task/mysp/fanout-wassi/rootfs",
+    "/dev",
+    "/dev/shm",
+    "/run",
+    "/etc/hosts",
+    "/etc/resolv.conf",
+]
+[2024-12-06 17:08:35.852] [error] Bind guest directory failed:54
+[2024-12-06 17:08:35.852] [error] Bind guest directory failed:54
+================================================================================================
+module registered
+Secondary function 
+downloading http://127.0.0.1:9999/files/file_2M.txt
+---------------------------------------------------------------
+Starting task 1
+start transfer at 2024-12-06 09:08:36.014235230 UTC
